@@ -1,0 +1,40 @@
+{
+  "chart": {
+    "title": "Unemployment rate",
+    "subtitle": "Share of the labor force without work but available for and seeking employment.",
+    "citation": "International Monetary Fund (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/unemployment-rate-imf?time=1991..latest&country=~DEU&v=1&csvType=filtered&useColumnShortNames=false&utm_source=chatgpt.com",
+    "selection": [
+      "United States",
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Canada",
+      "Japan",
+      "Italy"
+    ]
+  },
+  "columns": {
+    "Unemployment rate - Percent of total labor force - Observations": {
+      "titleShort": "Unemployment rate - Percent of total labor force - Observations",
+      "titleLong": "Unemployment rate - Percent of total labor force - Observations",
+      "descriptionShort": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment.",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "1980-2024",
+      "type": "Numeric",
+      "owidVariableId": 1027761,
+      "shortName": "unemployment_rate__percent_of_total_labor_force_observation",
+      "lastUpdated": "2025-04-25",
+      "nextUpdate": "2026-04-25",
+      "citationShort": "International Monetary Fund (2025) – with minor processing by Our World in Data",
+      "citationLong": "International Monetary Fund (2025) – with minor processing by Our World in Data. “Unemployment rate - Percent of total labor force - Observations” [dataset]. International Monetary Fund, “World Economic Outlook (WEO) April 2025” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1027761.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-07-19",
+  "activeFilters": {
+    "country": "~DEU",
+    "time": "1991..latest"
+  }
+}
